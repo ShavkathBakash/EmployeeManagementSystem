@@ -36,6 +36,14 @@ Table: employee
 - EmployeeDAO.java
 - Main.java
 
+## Future Enhancements(Planned)
+
+- Update Employee Details
+- Delete Employee Details
+- Search Employee by ID
+  
 ## Author
 
-Shavkath Bakash
+Shaik Shavkath Bakash
+B.Tech CSE-(AI)
+Madanapalle Institute of Technology and Science(MITS)
